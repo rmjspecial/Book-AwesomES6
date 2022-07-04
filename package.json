@@ -1,0 +1,20 @@
+{
+  "name": "book-awesomes6",
+  "version": "1.0.0",
+  "description": "The aim of this project is to restructure the Awesome books app code by using ES6 syntax and organising the workspace using modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmjspecial/Book-AwesomES6.git"
+  },
+  "keywords": [],
+  "author": "Rejoice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmjspecial/Book-AwesomES6/issues"
+  },
+  "homepage": "https://github.com/rmjspecial/Book-AwesomES6#readme"
+}
