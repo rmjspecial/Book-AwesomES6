@@ -8,7 +8,7 @@ The code is divided into modules and each module is saved in a separate file in 
 
 ## Live Demo
 
-[link to live demo]()
+[link to live demo](https://rmjspecial.github.io/Book-AwesomES6/)
 
 > Awesome-Books-ES6: Refractor to use JavaScript modules and ES6 Syntax.
 
