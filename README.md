@@ -46,8 +46,9 @@ The code is divided into modules and each module is saved in a separate file in 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rejoice-evans-74882122a/)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
